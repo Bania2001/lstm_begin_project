@@ -1,1 +1,1 @@
-# machine_leatning_projet
+# deep_learning_projet
